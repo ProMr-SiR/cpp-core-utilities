@@ -1,3 +1,6 @@
+#pragma warning(disable : 4996)
+#pragma once
+
 #include <iostream>
 #include <string>
 #include "clsString.h"
